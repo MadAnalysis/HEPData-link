@@ -1,0 +1,405 @@
+{
+    "tool": "MadAnalysis 5",
+    "version": "1.11.0",
+    "date_created": "2025-11_13",
+    "implementations_description": "MadAnalysis 5 analysis",
+    "url_templates": {
+        "main_url": "doi.org/{path}"
+    },
+    "analyses": [
+        {
+            "inspire_id": "1458270",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for squarks and gluinos in the multi-jet + missing energy channel (3.2 fb-1; 13 TeV; ATLAS-SUSY-2015-06)",
+                    "path": "10.14428/DVN/MHPXX4"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1641270",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for squarks and gluinos in the multi-jet + missing energy channel (36.1 fb-1; 13 TeV; ATLAS-SUSY-2016-07)",
+                    "path": "10.14428/DVN/I5IFG8"
+                },
+                {
+                    "name": "Implementation of a search for supersymmetry in the multijet (2 to 6 jets) + missing energy channel (36.1/fb; ATLAS-SUSY-2016-07)",
+                    "path": "10.14428/DVN/N47CFQ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1745920",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for a displaced vertices with oppositely-charged leptons (32.8 fb-1; 13 TeV; CMS-EXO-16-022; SFS implementation)",
+                    "path": "10.14428/DVN/31JVGJ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1765529",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a search for staus in the ditau + MET channel (139 fb-1; ATLAS-SUSY-2018-04)",
+                    "path": "10.14428/DVN/UN3NND"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1771533",
+            "implementations": [
+                {
+                    "name": "Re-implementation of the electroweakino search with Jigsaw variables (139 fb-1; ATLAS-SUSY-2018-06)",
+                    "path": "10.14428/DVN/LYQMUJ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1811596",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for supersymmetry in the multijet (at least 8 jets) + missing energy channel (139/fb; 13 TeV; ATLAS-SUSY-2018-17)",
+                    "path": "10.14428/DVN/I2CZWU"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1748602",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for sbottoms in the multibottom + missing energy channel (139/fb; ATLAS-SUSY-2018-31)",
+                    "path": "10.14428/DVN/IHALED"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1750597",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a sleptons and electroweakinos in the dilepton + MET channel (139 fb-1; ATLAS-SUSY-2018-32)",
+                    "path": "10.14428/DVN/EA4S4D"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1755298",
+            "implementations": [
+                {
+                    "name": "Re-implementation of the H (into b bbar) + 1 lepton + missing transverse momentum analysis (139 fb-1; ATLAS-SUSY-2019-08)",
+                    "path": "10.14428/DVN/BUN2UX"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1452559",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-jet channel (3.2 fb-1; 13 TeV; ATLAS-EXOT-2015-03)",
+                    "path": "10.14428/DVN/3M87GD"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1608773",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-Higgs channel (36.1 fb-1; 13 TeV; ATLAS-EXOT-2016-25)",
+                    "path": "10.14428/DVN/KAAYFM"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1635274",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-jet channel (36.1 fb-1; 13 TeV; ATLAS-EXOT-2014-06)",
+                    "path": "10.14428/DVN/DFQPGU"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1591328",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-photon channel (36.1 fb-1; 13 TeV; ATLAS-EXOT-2016-32)",
+                    "path": "10.14428/DVN/G8D0ED"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1717700",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for new physics in final states with a photon and two jets (76.8/fb; 13 TeV; ATLAS-EXOT-2018-05)",
+                    "path": "10.14428/DVN/Q8UBJV"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1847779",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for new physics with jets and missing transverse energy (139/fb; 13 TeV; ATLAS-EXOT-2018-06)",
+                    "path": "10.14428/DVN/REPAMM"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1739784",
+            "implementations": [
+                {
+                    "name": "Re-implementation of the W' into 1 lepton  + missing energy analysis (139 fb-1; ATLAS-EXOT-2018-30)",
+                    "path": "10.14428/DVN/GLWLTF"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1633591",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter produced in assocation with b jets  (13.3 fb-1; 13 TeV; ATLAS-CONF-2016-086)",
+                    "path": "10.14428/DVN/ZKIVFR"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1827025",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for squarks and gluinos in the multi-jet + missing energy channel (139 fb-1; 13 TeV; ATLAS-CONF-2019-040)",
+                    "path": "10.14428/DVN/NW3NPG"
+                },
+                {
+                    "name": "Implementation of a search for supersymmetry in the multijet (2 to 6 jets) + missing energy channel (139/fb; ATLAS-CONF-2019-040)",
+                    "path": "10.14428/DVN/4TGJAV"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1781655",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for supersymmetry in the multijet (at least 8 jets) + missing energy channel (139/fb; 13 TeV; ATLAS-CONF-2020-002)",
+                    "path": "10.14428/DVN/0UHTPC"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1594909",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for supersymmetry in the multi-jet + missing energy channel (35.9 fb-1; 13 TeV; CMS-SUS-16-033)",
+                    "path": "10.14428/DVN/GBDC91"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1624165",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for electroweakinos in the multi-lepton + missing energy channel (35.9 fb-1; 13 TeV; CMS-SUS-16-039)",
+                    "path": "10.14428/DVN/E8WN3G"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1646260",
+            "implementations": [
+                {
+                    "name": "Re-implementation of the soft lepton + missing energy analysis of CMS (35.9 fb-1; CMS-SUS-16-048)",
+                    "path": "10.14428/DVN/YA8E9V"
+                },
+                {
+                    "name": "Implementation of the soft lepton + missing energy analysis of CMS (35.9 fb-1; CMS-SUS-16-048)",
+                    "path": "10.14428/DVN/4WVPNQ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1609006",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for supersymmetry in the one  lepton + jets + missing energy channel (35.9 fb-1; 13 TeV; CMS-SUS-16-052)",
+                    "path": "10.14428/DVN/DCAKIY"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1518995",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for stops in the di-lepton + missing energy channel (35.9 fb-1; 13 TeV; CMS-SUS-17-001)",
+                    "path": "10.14428/DVN/BQM0T3"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1749379",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a search for supersymmetry in the HT/missing HT channel (137 fb-1; CMS-SUSY-19-006)",
+                    "path": "10.14428/DVN/4DEJQM"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1697570",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for vector-like quarks with charge 5/3 in same-sign dilepton final states (35.9 fb-1; 13 TeV; CMS-B2G-17-014)",
+                    "path": "10.14428/DVN/DQZWYL"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1508174",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-Z channel (2.3 fb-1; 13 TeV; CMS-EXO-16-010)",
+                    "path": "10.14428/DVN/RSDO9W"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1517496",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-Higgs (to two photons) channel (2.3 fb-1; 13 TeV; CMS-EXO-16-012)",
+                    "path": "10.14428/DVN/YSQVX6"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1479633",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for a displaced lepton pair (2.6 fb-1; 13 TeV; CMS-EXO-16-022)",
+                    "path": "10.14428/DVN/C6B9V3"
+                },
+                {
+                    "name": "Implementation of a search for a displaced lepton pair (2.6 fb-1; 13 TeV; CMS-EXO-16-022; SFS implementation)",
+                    "path": "10.14428/DVN/SVILPJ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1702163",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for leptoquarks in the electron(s)+jets channel (35.9 fb-1; 13 TeV; CMS-EXO-17-009)",
+                    "path": "10.14428/DVN/ZULXOQ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1665226",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for right-handed W-boson and heavy neutrino in the dilepton+dijet channel (35.9 fb-1; 13 TeV; CMS-EXO-17-011)",
+                    "path": "10.14428/DVN/SGOK0J"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1704960",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a search for leptoquark and dark matter associated production in the 1 lepton + 1 jet channel (77 fb-1; CMS-EXO-17-015)",
+                    "path": "10.14428/DVN/ICOXG9"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1700167",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for pair-produced resonances decaying each into a trijet system (36 fb-1; CMS-EXO-17-030)",
+                    "path": "10.14428/DVN/GAZACQ"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1764474",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for new physics with multi-leptonic final states (137/fb; CMS-EXO-19-002)",
+                    "path": "10.14428/DVN/DTYUUE"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1790827",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for disappearing tracks (139/fb; 13 TeV; CMS-EXO-19-010)",
+                    "path": "10.14428/DVN/P82DKS"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1986733",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for right-handed W-boson and heavy neutrino in the dilepton+dijet channel (138 fb-1; 13 TeV; CMS-EXO-20-002)",
+                    "path": "10.14428/DVN/UMGIDL"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1869138",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for new phenomena in events featuring energetic jets and missing transverse energy (137 fb-1; 13 TeV; CMS-EXO-20-004)",
+                    "path": "10.14428/DVN/IRF7ZL"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1709317",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a search for Higgs boson exotic decays into 2 muons and 2 b-jets (35.9 fb-1; CMS-HIG-18-011)",
+                    "path": "10.14428/DVN/UOH6BF"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1633423",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for four-top quark production with leptonic final states (35.9 fb-1; 13 TeV; CMS-TOP-17-009)",
+                    "path": "10.14428/DVN/N8LVAH"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1750186",
+            "implementations": [
+                {
+                    "name": "Re-implementation of a search for four-top quark production with leptonic final states (137 fb-1; CMS-TOP-18-003)",
+                    "path": "10.14428/DVN/OFAE1G"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1767649",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for electroweakinos with soft di-leptons and jigsaw variables (139/fb; ATLAS-SUSY-2018-16)",
+                    "path": "10.14428/DVN/1CPXHX"
+                }
+            ]
+        },
+        {
+            "inspire_id": "1866951",
+            "implementations": [
+                {
+                    "name": "Implementation of a search for electroweakinos with three leptons and missing energy (139/fb; ATLAS-SUSY-2019-09)",
+                    "path": "10.14428/DVN/LRKDTQ"
+                }
+            ]
+        }
+    ]
+}
