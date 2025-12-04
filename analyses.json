@@ -2,7 +2,7 @@
     "tool": "MadAnalysis 5",
     "version": "1.11.0",
     "schema_version": "1.0.0",
-    "date_created": "2025-11_13",
+    "date_created": "2025-12_04",
     "implementations_description": "MadAnalysis 5 analysis",
     "url_templates": {
         "main_url": "https://doi.org/{path}"
@@ -175,6 +175,10 @@
                 {
                     "name": "Implementation of a search for supersymmetry in the multijet (2 to 6 jets) + missing energy channel (139/fb; ATLAS-CONF-2019-040)",
                     "path": "10.14428/DVN/4TGJAV"
+                },
+                {
+                    "name": "Implementation of a search for gluinos and squarks with jets and missing energy (139/fb; ATLAS-SUSY-2018-22)",
+                    "path": "10.14428/DVN/F65KMF"
                 }
             ]
         },
@@ -399,6 +403,51 @@
                 {
                     "name": "Implementation of a search for electroweakinos with three leptons and missing energy (139/fb; ATLAS-SUSY-2019-09)",
                     "path": "10.14428/DVN/LRKDTQ"
+                }
+            ]
+        },
+        {
+            "inspire_id": 1635274,
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-jet channel (36.1 fb-1; 13 TeV; ATLAS-EXOT-2016-27)",
+                    "path": "10.14428/DVN/DFQPGU"
+                }
+            ]
+        },
+        {
+            "inspire_id": 1268328,
+            "implementations": [
+                {
+                    "name": "Implementation of a search for top partners with charge 5/3 in the same-sign di-lepton channel (19.5 fb-1; 8 TeV; CMS-B2G-12-012)",
+                    "path": "10.14428/DVN/738G7F"
+                }
+            ]
+        },
+        {
+            "inspire_id": 1285785,
+            "implementations": [
+                {
+                    "name": "Implementation of a search for dark matter in the mono-top channel (19.7 fb-1; 8 TeV; CMS-B2G-12-022)",
+                    "path": "10.14428/DVN/DZYE3D"
+                }
+            ]
+        },
+        {
+            "inspire_id": 1759712,
+            "implementations": [
+                {
+                    "name": "Implementation of a search for new dijet resonances (139 fb-1; ATLAS-EXOT-2019-03)",
+                    "path": "10.14428/DVN/KHJ1MW"
+                }
+            ]
+        },
+        {
+            "inspire_id": 2663256,
+            "implementations": [
+                {
+                    "name": "Implementation of a search for sem-visible jet production (139/fb; ATLAS-EXOT-2022-37)",
+                    "path": "10.14428/DVN/AFYF5Y"
                 }
             ]
         }
