@@ -34,7 +34,7 @@
             "inspire_id": 1745920,
             "implementations": [
                 {
-                    "name": "Implementation of a search for a displaced vertices with oppositely-charged leptons (32.8 fb-1; 13 TeV; CMS-EXO-16-022; SFS implementation)",
+                    "name": "Implementation of a search for a displaced vertices with oppositely-charged leptons (32.8 fb-1; 13 TeV; ATLAS-SUSY-2017-04)",
                     "path": "10.14428/DVN/31JVGJ"
                 }
             ]
@@ -112,11 +112,11 @@
             ]
         },
         {
-            "inspire_id": 1635274,
+            "inspire_id": 1326409,
             "implementations": [
                 {
                     "name": "Implementation of a search for dark matter in the mono-jet channel (36.1 fb-1; 13 TeV; ATLAS-EXOT-2014-06)",
-                    "path": "10.14428/DVN/DFQPGU"
+                    "path": "10.14428/DVN/LVOXP5"
                 }
             ]
         },
